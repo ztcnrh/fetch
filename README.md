@@ -1,2 +1,2 @@
 # fetch
-Fetch Rewards Coding Exercise - Data Analyst
+Coding Exercise - DA
