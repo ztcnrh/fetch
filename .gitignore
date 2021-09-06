@@ -1,3 +1,6 @@
+# Large files
+*.csv
+
 # API Key files
 config.py
 postgresql_password.py
